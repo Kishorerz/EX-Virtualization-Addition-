@@ -107,6 +107,10 @@ Now you can start using Kali Linux on your virtual machine.
 
 ![2](img/Screenshot_2025-02-26_03_22_33.png)
 
+### Addition of Two Numbers
+![Screenshot_2025-04-16_00_51_31](https://github.com/user-attachments/assets/af9dffac-0946-4d2a-b509-15068d174161)
+
+
  
  
 ## RESULT :
